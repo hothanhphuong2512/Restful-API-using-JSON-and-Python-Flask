@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "first_name": "Olivia",
+        "last_name": "Ho",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "model_type": "model",
+        "type": "model"
+    },
+    {
+        "id": 2,
+        "first_name": "Oliviaaaa",
+        "last_name": "Ho",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "model_type": "vedette",
+        "type": "model"
+    },
+    {
+        "id": 3,
+        "first_name": "Phuong",
+        "last_name": "Ho",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "model_type": "model",
+        "type": "model"
+    },
+    {
+        "id": 4,
+        "first_name": "Olivia",
+        "last_name": "Ho",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "model_type": "model",
+        "type": "model"
+    },
+    {
+        "id": 5,
+        "first_name": "Olivia",
+        "last_name": "Ho",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "model_type": "model",
+        "type": "model"
+    },
+    {
+        "id": 6,
+        "first_name": "Sofia",
+        "last_name": "Van't Hoff",
+        "talent_num": "A549",
+        "date_debut": "2017-04-25 00:00:00",
+        "movie_list": [
+            "Gora",
+            "Notebook"
+        ],
+        "award_num": 3,
+        "type": "actor"
+    }
+]
